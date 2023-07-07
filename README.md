@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maycon Freitas</h1>
 <h3 align="center">A BIM Architect into programming and gaming development</h3>
 
-<p align="center"> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hleWpmZHo4YWV4cTB1MHZjazN3dnMzNGJtenl5aHkxbGJ0MWhkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1gB3cxG0UsBjVW7R7U/giphy.gif" alt="BIM" width="400" height="400"/> <img align="center" src="https://media4.giphy.com/media/ovLysTU3drVSfHgBRD/giphy.gif?cid=ecf05e47r4i3l5hi0javzx13qvdm3sxaq8yegq8ad7ydn0e9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="plus" width="150" height="150"/> <img align="center" src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47bp8ua85it6jepe6rmejldpb1ggbecsbf1srkzgk4&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Matrix" width="400" height="400"/> </p>
+<p align="center"> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hleWpmZHo4YWV4cTB1MHZjazN3dnMzNGJtenl5aHkxbGJ0MWhkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1gB3cxG0UsBjVW7R7U/giphy.gif" alt="BIM" width="200" height="200"/> <img align="center" src="https://media4.giphy.com/media/ovLysTU3drVSfHgBRD/giphy.gif?cid=ecf05e47r4i3l5hi0javzx13qvdm3sxaq8yegq8ad7ydn0e9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="plus" width="80" height="80"/> <img align="center" src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47bp8ua85it6jepe6rmejldpb1ggbecsbf1srkzgk4&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Matrix" width="200" height="200"/> </p>
 
 
 
