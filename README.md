@@ -18,25 +18,15 @@
 
 ## Some numbers:
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconrfreitas&layout=compact&show_icons=true&locale=en"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconrfreitas&layout=compact&show_icons=true&locale=en" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mayconrfreitas&show_icons=true&locale=en"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayconrfreitas&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mayconrfreitas&locale=en"
-    alt="GitHub streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=mayconrfreitas&locale=en" alt="GitHub streak" />
 </p>
 
 ![GitHub metrics](https://metrics.lecoq.io/mayconrfreitas)
-
